@@ -12,11 +12,11 @@
 
   Prepare data by downloading German credit risk data from the Humpback Community.
 ## 4.2  Assisted Data Analysis
-  ![[german_credit/img/one.PNG]]
-  ![[german_credit/img/two.PNG]]
+![german_credit/img/one.PNG](./img/one.PNG)
+![german_credit/img/two.PNG](./img/two.PNG)
 ## 4.3 Query Builder
-![[german_credit/img/three.PNG]]
-![[german_credit/img/four.PNG]]
+![german_credit/img/three.PNG](./img/three.PNG)
+![german_credit/img/four.PNG](./img/four.PNG)
 # 5. Test Results and Analysis
 
   Through the auxiliary data analysis of the DeepBI platform, we successfully obtained detailed information about individual loan customers. Overall, we found that individuals aged 20-40 are the main force behind loans.
@@ -34,8 +34,9 @@
 - Additional supplementary information
 
   Cleaned Data Sample:
-![[german_credit_data.zip]]
+[german_credit_data.zip](./data/german_credit_data.zip)
+
   Generated Report/Dashboard Screenshots:
-![[german_credit/pdf/Answer successfully.pdf]]
+[german_credit/pdf/Answer successfully.pdf](./pdf/Answer%20successfully.pdf)
 
 🔍 For more detailed information or to begin hands-on exercises, please visit our [DeepData repository](https://github.com/DeepInsight-AI/DeepData) and refer to the corresponding [documentation](https://deepthought.feishu.cn/wiki/space/7323090769442193412?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home). Wishing you success in your journey of data analysis!

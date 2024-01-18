@@ -12,16 +12,16 @@ The purpose of this data analysis test is to verify the effectiveness of the Dee
 
   Firstly, we obtained the "superstore_data" dataset from Kaggle and performed basic table associations. We created repurchase rate and RFM tables, laying the groundwork for subsequent analysis.
 ## 4.2  Assisted Data Analysis
-  ![[one.png]]
-  ![[two.png]]
+![one.png](./img/one.png)
+![two.png](./img/two.png)
 ## 4.3 Query Builder
-![[three.png]]
-![[four.png]]
+![three.png](./img/three.png)
+![four.png](./img/four.png)
 ## 4.4 Dashboards
-![[five.png]]
-![[six.gif]]
+![five.png](./img/five.png)
+![six.gif](./img/six.gif)
 ## 4.5   Data Autopilot
-![[seven.png]]
+![seven.png](./img/seven.png)
 # 5. Test Results and Analysis
 
   Through DeepBI platform analysis, we have drawn the following conclusions:
@@ -37,9 +37,10 @@ The purpose of this data analysis test is to verify the effectiveness of the Dee
   Supplementary information, including cleaned data samples, generated report/dashboard screenshots, etc., is attached to provide a more detailed showcase of the analysis process and results.
 
   Cleaned Data Sample:
-![[superstore_data.zip]]
+[superstore_data.zip](./data/superstore_data.zip)
+
   Generated Report/Dashboard Screenshots:
-  ![[superstore/pdf/Answer successfully.pdf]]
+[superstore/pdf/Answer successfully.pdf](./pdf/Answer%20successfully.pdf)
   
 
 🔍 For more detailed information or to begin hands-on exercises, please visit our [DeepData repository](https://github.com/DeepInsight-AI/DeepData) and refer to the corresponding [documentation](https://deepthought.feishu.cn/wiki/space/7323090769442193412?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home). Wishing you success in your journey of data analysis!

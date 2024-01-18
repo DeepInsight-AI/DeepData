@@ -11,21 +11,21 @@ Welcome to our open-source data analysis repository! This repository contains da
 
 - **Dataset Name:** `superstore_data`
 - **Folder Path:** `/superstore`
-- **Quick Access:** [[A Case Analysis of Operational Data for a Certain Supermarket from 2019 to 2022]]
+- **Quick Access:** [A Case Analysis of Operational Data for a Certain Supermarket from 2019 to 2022](./superstore/A%20Case%20Analysis%20of%20Operational%20Data%20for%20a%20Certain%20Supermarket%20from%202019%20to%202022.md)
 - **Description:** Analyze the financial operations of a supermarket from 2019 to 2022, exploring key financial indicators and trends.
 
 ### Banking Finance - Loan Customers - Bank Customer Loan Comprehensive Analysis
 
 - **Dataset Name:** `german_credit_data`
 - **Folder Path:** `/german_credit`
-- **Quick Access:** [[Bank Customer Loan Comprehensive Analysis Case]]
+- **Quick Access:** [Bank Customer Loan Comprehensive Analysis Case](./german_credit/Comprehensive%20Analysis%20Case%20of%20Bank%20Customer%20Loans.md)
 - **Description:** In-depth analysis of bank loan customers, providing insights into loan patterns, customer segmentation, and risk assessment.
 
 ### Other Industries - Human Resources - Employee Turnover Analysis Report
 
 - **Dataset Name:** `# HR Data for Analytics`
 - **Folder Path:** `/HR_comma_sep`
-- **Quick Access:** [[Comprehensive Analysis Case of Bank Customer Loans]]
+- **Quick Access:** [Comprehensive Analysis Case of Bank Customer Loans](./HR_comma_sep/Human%20Resources%20Industry%20Data%20Analysis%20Case.md)
 - **Description:** Analyze employee turnover in diverse industries, identify key factors influencing employee retention and departure.
 
 ### Instructions for Use

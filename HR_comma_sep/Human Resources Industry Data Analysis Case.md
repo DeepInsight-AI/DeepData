@@ -13,14 +13,14 @@
 - Download the dataset, rename columns, remove null and outlier values to ensure data quality.
 - The cleaned dataset contains 14,999 records.
 ## 4.2  Assisted Data Analysis
-  ![[HR_comma_sep/img/one.PNG]]
-  ![[HR_comma_sep/img/two.PNG]]
+![HR_comma_sep/img/one.PNG](./img/one.PNG)
+![HR_comma_sep/img/two.PNG](./img/two.PNG)
 ## 4.3 Query Builder
-![[HR_comma_sep/img/three.png]]
-![[HR_comma_sep/img/four.png]]
+![HR_comma_sep/img/three.png](./img/three.png)
+![HR_comma_sep/img/four.png](./img/four.png)
 ## 4.4 Dashboards
-![[HR_comma_sep/img/five.png]]
-![[HR_comma_sep/img/six.gif]]
+![HR_comma_sep/img/five.png](./img/five.png)
+![HR_comma_sep/img/six.gif](./img/six.gif)
 # 5. Test Results and Analysis
 
 - Identified that the turnover rate is higher for employees with 3-6 years of tenure compared to the average turnover rate, further analysis is conducted.
@@ -34,8 +34,9 @@
   Attached with detailed information such as cleaned sample data and screenshots of generated reports/dashboards.
 
   Cleaned Data Sample:
-![[HR_comma_sep.zip]]
+[HR_comma_sep.zip](./data/HR_comma_sep.zip)
+
   Generated Report/Dashboard Screenshots:
-![[HR_comma_sep/pdf/Answer successfully.pdf]]
+[HR_comma_sep/pdf/Answer successfully.pdf](./pdf/Answer%20successfully.pdf)
 
 🔍 For more detailed information or to begin hands-on exercises, please visit our [DeepData repository](https://github.com/DeepInsight-AI/DeepData) and refer to the corresponding [documentation](https://deepthought.feishu.cn/wiki/space/7323090769442193412?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home). Wishing you success in your journey of data analysis!
