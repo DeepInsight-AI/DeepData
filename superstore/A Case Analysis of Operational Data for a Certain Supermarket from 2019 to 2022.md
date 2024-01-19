@@ -40,7 +40,7 @@ The purpose of this data analysis test is to verify the effectiveness of the Dee
 [superstore_data.zip](./data/superstore_data.zip)
 
   Generated Report/Dashboard Screenshots:
-[superstore/pdf/Answer successfully.pdf](./pdf/Answer%20successfully.pdf)
+[superstore/pdf/Answer successfully.pdf](./pdf/All%20case%20screenshots.pdf)
   
 
 🔍 For more detailed information or to begin hands-on exercises, please visit our [DeepData repository](https://github.com/DeepInsight-AI/DeepData) and refer to the corresponding [documentation](https://deepthought.feishu.cn/wiki/space/7323090769442193412?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home). Wishing you success in your journey of data analysis!

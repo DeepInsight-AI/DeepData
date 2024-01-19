@@ -37,6 +37,6 @@
 [german_credit_data.zip](./data/german_credit_data.zip)
 
   Generated Report/Dashboard Screenshots:
-[german_credit/pdf/Answer successfully.pdf](./pdf/Answer%20successfully.pdf)
+[german_credit/pdf/Answer successfully.pdf](./pdf/All%20case%20screenshots.pdf)
 
 🔍 For more detailed information or to begin hands-on exercises, please visit our [DeepData repository](https://github.com/DeepInsight-AI/DeepData) and refer to the corresponding [documentation](https://deepthought.feishu.cn/wiki/space/7323090769442193412?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home). Wishing you success in your journey of data analysis!
