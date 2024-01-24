@@ -23,7 +23,7 @@ Welcome to our open-source data analysis repository! This repository contains da
 
 ### Other Industries - Human Resources - Employee Turnover Analysis Report
 
-- **Dataset Name:** `# HR Data for Analytics`
+- **Dataset Name:** `HR Data for Analytics`
 - **Folder Path:** `/HR_comma_sep`
 - **Quick Access:** [Comprehensive Analysis Case of Bank Customer Loans](./HR_comma_sep/Human%20Resources%20Industry%20Data%20Analysis%20Case.md)
 - **Description:** Analyze employee turnover in diverse industries, identify key factors influencing employee retention and departure.
