@@ -12,7 +12,6 @@
 
 - Download the dataset, rename columns, remove null and outlier values to ensure data quality.
 - The cleaned dataset contains 14,999 records.
-<<<<<<< HEAD
   Click the below to download our cleaned data:
   [HR_comma_sep.zip](./data/HR_comma_sep.zip)
 ## 4.2 Data Copilot
@@ -20,11 +19,6 @@
 ![HR_comma_sep/img/two.PNG](./img/two.PNG)
 Click the below to download and view more screenshots:
 [HR_comma_sep/pdf/Answer successfully.pdf](./pdf/All%20case%20screenshots.pdf)
-=======
-## 4.2  Assisted Data Analysis
-![HR_comma_sep/img/one.PNG](./img/one.PNG)
-![HR_comma_sep/img/two.PNG](./img/two.PNG)
->>>>>>> 260f229722c62dabd38add6e6429e9399236e7f0
 ## 4.3 Query Builder
 ![HR_comma_sep/img/three.png](./img/three.png)
 ![HR_comma_sep/img/four.png](./img/four.png)
