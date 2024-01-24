@@ -11,9 +11,13 @@
 ## 4.1  Data Preparation
 
   Prepare data by downloading German credit risk data from the Humpback Community.
-## 4.2  Assisted Data Analysis
+  Click the below to download our cleaned data:
+  [german_credit_data.zip](./data/german_credit_data.zip)
+## 4.2 Data Copilot
 ![german_credit/img/one.PNG](./img/one.PNG)
 ![german_credit/img/two.PNG](./img/two.PNG)
+Click the below to download and view more screenshots:
+[german_credit/pdf/Answer successfully.pdf](./pdf/All%20case%20screenshots.pdf)
 ## 4.3 Query Builder
 ![german_credit/img/three.PNG](./img/three.PNG)
 ![german_credit/img/four.PNG](./img/four.PNG)

@@ -11,9 +11,13 @@ The purpose of this data analysis test is to verify the effectiveness of the Dee
 ## 4.1  Data Preparation
 
   Firstly, we obtained the "superstore_data" dataset from Kaggle and performed basic table associations. We created repurchase rate and RFM tables, laying the groundwork for subsequent analysis.
-## 4.2  Assisted Data Analysis
+  Click the below to download our cleaned data:
+  [superstore_data.zip](./data/superstore_data.zip)
+## 4.2 Data Copilot
 ![one.png](./img/one.png)
 ![two.png](./img/two.png)
+Click the below to download and view more screenshots:
+[superstore/pdf/Answer successfully.pdf](./pdf/All%20case%20screenshots.pdf)
 ## 4.3 Query Builder
 ![three.png](./img/three.png)
 ![four.png](./img/four.png)
